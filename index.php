@@ -44,7 +44,7 @@ function getUser($q) {
 	
 	curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 	curl_setopt($ch, CURLOPT_USERAGENT, 'Mozilla/5.0 (Windows; U; Windows NT 6.1; rv:2.2) Gecko/20110201');
-	curl_setopt($ch, CURLOPT_URL, 'http://tradiemthi.plo.vn/diem-thi-thpt/'. $q .'&college=' . $mavung . '&area=2');
+	curl_setopt($ch, CURLOPT_URL, 'http://tradiemthi.plo.vn/diem-thi-lop-10/'. $q .'&college=' . $mavung . '&area=2');
 	curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 	curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
 

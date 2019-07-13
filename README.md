@@ -1,5 +1,5 @@
 # Chatbot Tra cứu điểm thi THPT Quốc Gia 2018
-Điểm thi được cập nhật từ http://tradiemthi.plo.vn
+Điểm thi được cập nhật từ http://diemthi.vnexpress.net
 
 [Demo](https://www.facebook.com/so3botrach/videos/1383843391670405/)
 
